@@ -1,0 +1,20 @@
+.content ul li {
+    margin-bottom: 20px;
+}
+.content ul li a {
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #c1121f;
+
+     text-shadow:
+    -2px -2px 0 rgb(45, 2, 2),
+     2px -2px 0 black,
+    -2px  2px 0 black,
+     2px  2px 0 black;
+}
+.content ul li a:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
