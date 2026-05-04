@@ -1,8 +1,9 @@
 const videos = [
   "../videos/water.mp4",
   "../videos/Heven.mp4",
-  "../videos/Bomba.mp4",
-  "../videos/Death.mp4"
+  "../videos/Interstellar.mp4",
+  "../videos/Bomb.mp4",
+  "../videos/Driftin.mp4",
 ];
 
 let index = 0;
